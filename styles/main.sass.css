@@ -1,0 +1,27 @@
+.hidden {
+  border: solid black 1px;
+  padding-right: 2em;
+  padding-left: 2em;
+  padding-bottom: 1em; }
+
+.show {
+  border: solid black 1px;
+  padding-right: 2em;
+  padding-left: 2em;
+  padding-bottom: 1em; }
+
+.tab {
+  border: solid black 1px;
+  padding-right: 1em;
+  padding-left: 1em;
+  padding-bottom: .5em;
+  padding-top: .5em;
+  float: left;
+  clear: right; }
+
+a {
+  text-decoration: none;
+  color: black; }
+
+.wrap {
+  overflow: hidden; }
